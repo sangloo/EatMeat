@@ -4,35 +4,43 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-en-jsx": [
+      "component---src-pages-en-jsx-5594d75a4dec25ff621f.js",
+      "component---src-pages-en-jsx-5594d75a4dec25ff621f.js.map"
+    ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-bf5efd24ce61a7ecfe76.js",
       "component---src-layouts-index-jsx-bf5efd24ce61a7ecfe76.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-f7e99d480e2487030489.js",
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-f7e99d480e2487030489.js.map"
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-6fdcceeae6a81a5398db.js",
-      "commons-6fdcceeae6a81a5398db.js.map"
+      "commons-ea3b78e78be58de3affc.js",
+      "commons-ea3b78e78be58de3affc.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-cf5ddbd04ebab5a41118.js",
-      "component---src-pages-index-jsx-cf5ddbd04ebab5a41118.js.map"
+      "component---src-pages-index-jsx-df4ae6bf93985e74b935.js",
+      "component---src-pages-index-jsx-df4ae6bf93985e74b935.js.map"
     ],
     "app": [
-      "app-1e818e5c768881b25c33.js",
+      "app-49a71fd3f7efa6b58894.js",
       "build-js-styles.css",
-      "app-1e818e5c768881b25c33.js.map",
+      "app-49a71fd3f7efa6b58894.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---en": [
+      "path---en-a0e39f21c11f6a62c5ab.js",
+      "path---en-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
